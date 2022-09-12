@@ -1,0 +1,18 @@
+{
+  "name": "tabela_fipe_api",
+  "version": "1.0.0",
+  "description": "API da tabela fipe.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "André Takeo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "knex": "^2.3.0",
+    "nodemon": "^2.0.19",
+    "pg": "^8.8.0"
+  }
+}
